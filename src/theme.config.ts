@@ -2,9 +2,9 @@ export const THEME_CONFIG: App.Locals['config'] = {
   /** blog title */
   title: "李青石",
   /** your name */
-  author: "李青石",
+  author: "Javen",
   /** website description */
-  desc: "李青石的小屋",
+  desc: "李青石的个人博客",
   /** your deployed domain */
   website: "https://lqs1920.com/",
   /** your locale */
