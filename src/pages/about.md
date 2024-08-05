@@ -1,7 +1,7 @@
-# ![avatar.jpg](..%2F..%2Fpublic%2Favatar.jpg)
+# <img src="../../public/avatar.webp" alt="avatar.webp" style="border-radius: 50%; width: 100px; height: 100px;">
 
-Hello! I'm Javen
+## Hello! I'm Javen
 
-💻 前端开发  
-🧑‍💻 开源贡献
-🌈 Less is more, Worse is better ～`
+💻 后端开发  
+🧑‍💻 开源贡献  
+🌈 Less is more, Worse is better ～
