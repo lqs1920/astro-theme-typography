@@ -1,26 +1,26 @@
 export const THEME_CONFIG: App.Locals['config'] = {
   /** blog title */
-  title: "活版印字",
+  title: "李青石",
   /** your name */
-  author: "Typography",
+  author: "李青石",
   /** website description */
-  desc: "Rediscory the beauty of typography",
+  desc: "李青石的小屋",
   /** your deployed domain */
-  website: "https://astro-theme-typography.vercel.app/",
+  website: "https://lqs1920.com/",
   /** your locale */
-  locale: "en-us",
+  locale: "en-cn",
   /** theme style */
   themeStyle: "light",
   /** your socials */
   socials: [
     {
       name: "github",
-      href: "https://github.com/moeyua/astro-theme-typography",
+      href: "https://github.com/lqs1920/",
     },
     {
       name: "rss",
       href: "/atom.xml",
-    },
+    }/* ,
     {
       name: "twitter",
       href: "https://github.com/moeyua/astro-theme-typography",
@@ -28,7 +28,7 @@ export const THEME_CONFIG: App.Locals['config'] = {
     {
       name: "mastodon",
       href: "https://github.com/moeyua/astro-theme-typography",
-    }
+    } */
   ],
   /** your header info */
   header: {
@@ -61,7 +61,7 @@ export const THEME_CONFIG: App.Locals['config'] = {
   comments: {
     disqus: {
       // please change this to your disqus shortname
-      shortname: "typography-astro",
+      shortname: "李青石",
     },
     // giscus: {
     //   repo: 'moeyua/astro-theme-typography',
